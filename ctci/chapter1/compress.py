@@ -1,3 +1,4 @@
+# String compression algo
 import unittest
 
 def compress(inputString=None):
